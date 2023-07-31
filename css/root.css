@@ -572,6 +572,14 @@
     width: 100%;
     margin: auto;
   }
+  #footer .left-section p a {
+    color: var(--primary);
+    text-decoration: none;
+    font-size: 1rem;
+  }
+  #footer .left-section p a:hover {
+    text-decoration: underline;
+  }
   #footer .right-section {
     width: 96%;
     max-width: 25.4375rem;
